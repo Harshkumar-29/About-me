@@ -1,5 +1,5 @@
-# About-me
-# 💫 About Me:
+
+#  About Me:
 B.Tech CSE student at Shobhit Institute of Engineering and Technology (CGPA: 8.11)<br>- 💡 Passionate about problem solving and building real-world applications<br>- 📚 Strong in Data Structures, Algorithms, OOP, DBMS, and Operating Systems<br>- 🔍 Currently looking for Internship / Software Developer opportunities<br>
 
 
